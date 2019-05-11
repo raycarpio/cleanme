@@ -2,7 +2,7 @@
     background: url('https://i.imgur.com/tE9vNJj.png');
     min-height: 100vh;
     display: grid;
-    grid-template-columns: 1fr 200px minmax(auto, 600px) 1fr;
+    grid-template-columns: 1fr 600px minmax(auto, 800px) 1fr;
     grid-template-rows: 100px auto;
     grid-row-gap: 20px;
     grid-column-gap: 20px;
